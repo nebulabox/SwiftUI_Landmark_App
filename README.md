@@ -13,4 +13,4 @@ Landmark app built in [SwiftUI](https://developer.apple.com/tutorials/swiftui) u
 This project is a starting point for a SwiftUI application.
 
 For help getting started with SwiftUI, view
-[online documentation](https://developer.apple.com/tutorials/swiftui/), which offers tutorials,
+[online documentation](https://developer.apple.com/tutorials/swiftui/)
