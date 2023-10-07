@@ -149,9 +149,8 @@
 				1D5051BC23F319F9008D13D8 /* Hike.swift */,
 				1D5051C523F32E24008D13D8 /* Profile.swift */,
 			);
-			name = Models;
-			path = /Users/ashwindas/Desktop/Workspace/Examples/SwiftUI_Landmark_App/SwiftUI_Landmark_App/Models;
-			sourceTree = "<absolute>";
+			path = Models;
+			sourceTree = "<group>";
 		};
 		1D5051C023F32CB1008D13D8 /* Profile */ = {
 			isa = PBXGroup;
@@ -519,8 +518,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI_Landmark_App/Preview Content\"";
+				DEVELOPMENT_TEAM = E24N8SPR73;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftUI_Landmark_App/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -538,8 +539,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI_Landmark_App/Preview Content\"";
+				DEVELOPMENT_TEAM = E24N8SPR73;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftUI_Landmark_App/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
